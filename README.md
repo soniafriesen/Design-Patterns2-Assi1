@@ -1,2 +1,2 @@
 # Design-Patterns2-Assi1
-Demonstrates Design Patterns
+Demonstrates Design Patterns flyweight, aggregate
